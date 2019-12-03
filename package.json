@@ -2,6 +2,13 @@
   "name": "vue-compare-two-images-component",
   "version": "1.0.0",
   "description": "Component for VueJS can help you check diffrence between two images using slider",
+  "keywords": [
+    "picture comparison",
+    "image comparison",
+    "image slider",
+    "compare images",
+    "compare pictures"
+  ],
   "license": "MIT",
   "homepage": "https://ajsn1988.github.io/imageCompare/",
   "repository": {
