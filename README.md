@@ -5,16 +5,18 @@ Hello. This is simple component for VueJS can help you check diffrence between t
 [DEMO & EXAMPLES](https://ajsn1988.github.io/imageCompare/)
 
 [Repository on Github](https://github.com/AJSN1988/vue-compare-two-images-component)
+
 Current version: 1.0.0
+
 License: [MIT](https://github.com/AJSN1988/vue-compare-two-images-component/blob/master/LICENSE)
 
-##Features
+## Features
 - Simple for using
 - Responsive (expandes from the container width, set container's height using image properly aspect ratio)
 - Flexible tuning
 - Mobile frendly
 
-##Install
+## Install
 
 Install npm package
 
@@ -57,7 +59,7 @@ After that use compare-two-images tag into template.
 </template>
 ```
 
-##Props
+## Props
 
 | PROPERTY NAME | TYPE | DEFAULT VALUE | DESCRIPTION  |
 | :------------: | :------------: | :------------: | :------------: |
@@ -81,5 +83,5 @@ After that use compare-two-images tag into template.
 |  arrowsWidth  | String   |  "20px" | Size of animated arrows (any CSS correct string width value e.g. "2rem", "40px")  |
 |  arrowsColor  | String   | "rgb(253, 253, 253)"  |  Animated arrows color (any CSS correct string color value - rgb/rgba/hex) |
 |  adaptiveHeight  |  Boolean  |  true  |  Enable adaptive container's height |
-##
+
 For additional information see [documentation](https://ajsn1988.github.io/imageCompare/)
