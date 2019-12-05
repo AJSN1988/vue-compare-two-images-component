@@ -6,7 +6,7 @@ Hello. This is simple component for VueJS can help you check diffrence between t
 
 [Repository on Github](https://github.com/AJSN1988/vue-compare-two-images-component)
 
-Current version: 1.0.0
+Current version: 1.0.2
 
 License: [MIT](https://github.com/AJSN1988/vue-compare-two-images-component/blob/master/LICENSE)
 
