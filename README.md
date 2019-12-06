@@ -8,6 +8,10 @@ Hello. This is simple component for VueJS can help you check diffrence between t
 
 License: [MIT](https://github.com/AJSN1988/vue-compare-two-images-component/blob/master/LICENSE)
 
+## Changelog
+
+1.0.5 - Fixed animate arrows
+
 ## Features
 - Simple for using
 - Responsive (expandes from the container width, set container's height using image properly aspect ratio)
