@@ -482,7 +482,7 @@ export default {
     Root app styles
 -->
 
-<style scoped>
+<style>
 .compare-image-wrapper {
     position: relative;
     -webkit-touch-callout: none;
@@ -570,6 +570,30 @@ export default {
     transition: 0.5s ease;
 }
 
+@-webkit-keyframes animateLeftArrow {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-5px);
+    }
+}
+@-moz-keyframes animateLeftArrow {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-5px);
+    }
+}
+@-o-keyframes animateLeftArrow {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-5px);
+    }
+}
 @keyframes animateLeftArrow {
     0% {
         transform: translateX(0);
@@ -578,9 +602,34 @@ export default {
         transform: translateX(-5px);
     }
 }
-@keyframes animateRightArrow {
+
+@-webkit-keyframes animateRightArrow {
     0% {
         transform: translateX(0);
+    }
+    100% {
+        transform: translateX(5px);
+    }
+}
+@-moz-keyframes animateRightArrow {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(5px);
+    }
+}
+@-o-keyframes animateRightArrow {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(5px);
+    }
+}
+@keyframes animateRightArrow {
+    0% {
+        transform: translateX();
     }
     100% {
         transform: translateX(5px);
